@@ -1,7 +1,6 @@
-COMUNIDADES GIT
+#COMUNIDADES GIT
 
-![](Pictures/1000000100000200000002009E26796B26B54E08.png){width="13.547cm"
-height="13.547cm"}
+![Portada](img/portada.png)
 
 Introducción
 
