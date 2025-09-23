@@ -33,8 +33,7 @@ GitLab
 Tras registrarnos y darnos de alta en GitLab procederemos a crear
 nuestro nuevo repositorio:
 
-![](Pictures/1000000000000460000001D1E8E51D74EE8C5C6E.png){width="17cm"
-height="7.057cm"}
+![Crear Repositorio](img/1.png)
 
 ![](Pictures/1000000000000150000001808B19C6A5B99746BE.png){width="8.89cm"
 height="10.16cm"}
