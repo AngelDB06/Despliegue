@@ -1,4 +1,4 @@
-#COMUNIDADES GIT
+COMUNIDADES GIT
 
 ![Portada](img/portada.png)
 
